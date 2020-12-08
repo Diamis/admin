@@ -1,3 +1,5 @@
+[Template](https://preview.themeforest.net/item/dboard-nextjs-admin-template/full_screen_preview/27870045?ref=kern8&irgwc=1&clickid=yRT0YNxPKxyLUQUwUx0Mo3EAUkE1hfQv4SQDTo0&iradid=275988&irpid=1246296&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_1246296&utm_medium=affiliate&utm_source=impact_radius)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

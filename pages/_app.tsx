@@ -1,11 +1,13 @@
 import React from 'react';
 import NextApp from 'next/app';
 
-import { Layout } from 'components/layout';
+import { Layout as AdminLayout } from 'components/layout';
 
 class App extends NextApp {
   render() {
     const { Component, pageProps } = this.props;
+    // @ts-ignore
+    const Layout = Component.layout || AdminLayout;
 
     return (
       <Layout>
